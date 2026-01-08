@@ -16,5 +16,6 @@ A symptom-based medical assistant built using RAG architecture and fine-tuned Ll
 * **PEFT/LoRA Fine-tuning:** Updated only a small subset of model weights to adapt the LLM to specific medical symptom-disease pairs.
 * **Semantic Search:** Used `cosine similarity` to match user inputs with vector-embedded medical records.
 
-## 📜 Certification
-* [cite_start]**Project Completion Certificate:** Awarded by the *Northeast Big Data Innovation Hub*[cite: 35, 38].
+## 🏆 Certification
+View the official **Certificate of Completion** from the *Northeast Big Data Innovation Hub* and *National Student Data Corps* here: 
+[📄 Click to view Certificate](./Certificate%20of%20DSP%20Completion%20-%20MedChat.pdf)
